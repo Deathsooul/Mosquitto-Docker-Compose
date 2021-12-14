@@ -1,0 +1,13 @@
+{
+  "name": "dockerMosquitto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wallace <wbescrovaine@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
